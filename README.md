@@ -7,7 +7,7 @@ No additional code sources were used in this challenge.
 
 ## Overview of the Analysis
 
-The purpose of this analysis is to find which machine learning model can best predict which loans are high-risk versus those that are healthy. To do this, we used our data's features, such as the loan amount, interest rate, debt amount, and number of accounts, to test how these affected the loan's status as either healthy or high-risk. After splitting the data into training and testing sets, we created three different machine learning models--logistic regression, decision tree, and random forest--, fit the training data to each model, and made predictions of how each model would classify the testing data. We then got scores for accuracy, precision, and recall for each model to see which performed the best.
+The purpose of this analysis is to find which machine learning model can best predict which loans are at high risk of defaulting versus those that are healthy. To do this, we used our data's features, such as the loan amount, interest rate, debt amount, and number of accounts, to test how these affected the loan's status as either healthy or high-risk. After splitting the data into training and testing sets, we created three different machine learning models--logistic regression, decision tree, and random forest--, fit the training data to each model, and made predictions of how each model would classify the testing data. We then got scores for accuracy, precision, and recall for each model to see which performed the best.
 
 
 ## Results
